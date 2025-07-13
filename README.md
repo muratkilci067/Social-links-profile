@@ -4,7 +4,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## 🚀 Live Demo
 
-👉 [Live site URL here](https://your-username.github.io/social-links-profile)
+👉 [Live site URL here](https://muratkilci067.github.io/Social-links-profile/)
 
 ---
 
