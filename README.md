@@ -2,14 +2,17 @@
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## 📸 Screenshot
-
-![Screenshot of the project(Desktop)](./assets/images/Screenshot%20desktop.png)
-![Screenshot of the project(Mobile)](./assets/images/Screenshot%20mobile.png)
-
 ## 🚀 Live Demo
 
 👉 [Live site URL here](https://your-username.github.io/social-links-profile)
+
+---
+
+## 📷 Screenshots
+
+| Desktop View | Mobile View |
+|--------------|-------------|
+| ![Desktop](./assets/images/Screenshot%20desktop.png) | ![Mobile](./assets/images/Screenshot%20mobile.png) |
 
 ---
 
